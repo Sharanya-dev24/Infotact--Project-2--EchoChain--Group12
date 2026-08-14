@@ -1,0 +1,43 @@
+#Scraped data from secondary market sites: json --unstructured/ semi-structured
+{
+  "listing_id": "v1|203847561029|0",
+  "title": "Dell Latitude 5420 14in Laptop i5-1145G7 16GB 256GB SSD - CRACKED SCREEN",
+  "price": 189.99,
+  "currency": "USD",
+  "condition": "For parts or not working",
+  "seller_notes": "Motherboard boots fine, display has visible crack, otherwise good condition. Battery holds charge.",
+  "category": "Computers/Tablets & Networking > Laptops & Netbooks",
+  "item_specifics": {
+    "Brand": "Dell",
+    "Model": "Latitude 5420",
+    "Processor": "Intel Core i5-1145G7",
+    "RAM Size": "16 GB",
+    "SSD Capacity": "256 GB",
+    "Screen Size": "14 in"
+  },
+  "bids": 3,
+  "watchers": 12,
+  "shipping_price": 15.50,
+  "location": "Austin, TX",
+  "listing_url": "https://www.ebay.com/itm/203847561029",
+  "scraped_at": "2026-08-10T06:14:22Z"
+}
+
+#Scraped data flattened out into csv -- after deciding the fixed set of columns
+listing_id,title,price,condition,brand,model,ram_gb,ssd_gb,bids,watchers,scraped_at
+v1|203847561029|0,"Dell Latitude 5420 14in Laptop i5-1145G7 16GB 256GB SSD - CRACKED SCREEN",189.99,For parts or not working,Dell,Latitude 5420,16,256,3,12,2026-08-10T06:14:22Z
+v1|198822739104|0,"Dell Latitude 5420 - Excellent - Battery New - Fast Shipping",312.00,Used,Dell,Latitude 5420,16,256,0,4,2026-08-10T06:15:01Z
+
+#Internal manufacturing BOM data -- rigid, structured, relational data -- csv
+(*A BOM is hierarchical: a finished product (parent) is made of components (children), each with a quantity.)
+parent_sku,parent_desc,component_sku,component_desc,component_type,qty_per_unit,unit_cost_usd,supplier,warranty_months,mtbf_hours
+LAT5420-I5-16-256,Dell Latitude 5420 (i5/16GB/256GB),MB-LAT5420-REV3,Motherboard Rev3,Motherboard,1,142.50,Wistron,12,18000
+LAT5420-I5-16-256,Dell Latitude 5420 (i5/16GB/256GB),DISP-14-FHD-IPS,14in FHD IPS Display Panel,Display,1,68.00,LG Display,12,45000
+LAT5420-I5-16-256,Dell Latitude 5420 (i5/16GB/256GB),BATT-4CELL-68WH,4-Cell 68Wh Battery,Battery,1,31.20,LG Chem,12,25000
+LAT5420-I5-16-256,Dell Latitude 5420 (i5/16GB/256GB),SSD-256-NVME,256GB NVMe SSD,Storage,1,29.80,Samsung,12,80000
+
+Warranty/failure data - csv (usually BOM data is joined with this, on component_SKU):
+claim_id,parent_sku,component_sku,failure_date,failure_reason,within_warranty
+WC-88213,LAT5420-I5-16-256,MB-LAT5420-REV3,2026-05-14,No power / dead board,TRUE
+WC-88214,LAT5420-I5-16-256,MB-LAT5420-REV3,2026-06-02,No power / dead board,TRUE
+WC-88301,LAT5420-I5-16-256,BATT-4CELL-68WH,2026-06-20,Swelling,TRUE
