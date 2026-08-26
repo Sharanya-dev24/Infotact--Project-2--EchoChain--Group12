@@ -1,5 +1,13 @@
 # Infotact---Project-2---Group-12
 
+Analytics & Visualization
+
+Tools
+-----
+Power BI
+Power Query
+DAX
+Databricks SQL Warehouse
 
 ---Connect Power BI Desktop to the Databricks SQL endpoint and create a sample report using the Databricks data.
 
