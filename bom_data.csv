@@ -1,0 +1,19 @@
+parent_sku,parent_desc,component_sku,component_desc,component_type,qty_per_unit,unit_cost_usd,supplier,warranty_months,mtbf_hours
+LAT5420-I5-16-256,Dell Latitude 5420 (i5-1145G7/16GB/256GB),MB-LAT5420-REV3,Motherboard Rev3,Motherboard,1,142.5,Wistron,12,18000
+LAT5420-I5-16-256,Dell Latitude 5420 (i5-1145G7/16GB/256GB),DISP-14-FHD-IPS-D1,14in FHD IPS Display Panel,Display,1,68.0,LG Display,12,45000
+LAT5420-I5-16-256,Dell Latitude 5420 (i5-1145G7/16GB/256GB),BATT-4CELL-68WH-D1,4-Cell 68Wh Battery,Battery,1,31.2,LG Chem,12,25000
+LAT5420-I5-16-256,Dell Latitude 5420 (i5-1145G7/16GB/256GB),SSD-256-NVME-D1,256GB NVMe SSD,Storage,1,29.8,Samsung,12,80000
+LAT5420-I5-16-256,Dell Latitude 5420 (i5-1145G7/16GB/256GB),HNG-ASSY-D1,Display Hinge Assembly,Chassis/Hinge,2,6.4,Foxconn,12,30000
+LAT5420-I5-16-256,Dell Latitude 5420 (i5-1145G7/16GB/256GB),KB-BL-US-D1,Backlit Keyboard - US Layout,Keyboard,1,18.9,Darfon,12,60000
+ELITEBOOK840G7-I7-16-512,HP EliteBook 840 G7 (i7-10510U/16GB/512GB),MB-EB840G7-REV2,Motherboard Rev2,Motherboard,1,168.75,Compal,12,22000
+ELITEBOOK840G7-I7-16-512,HP EliteBook 840 G7 (i7-10510U/16GB/512GB),DISP-14-FHD-IPS-H1,14in FHD IPS Display Panel,Display,1,74.5,BOE,12,48000
+ELITEBOOK840G7-I7-16-512,HP EliteBook 840 G7 (i7-10510U/16GB/512GB),BATT-3CELL-53WH-H1,3-Cell 53Wh Battery,Battery,1,27.6,Samsung SDI,12,24000
+ELITEBOOK840G7-I7-16-512,HP EliteBook 840 G7 (i7-10510U/16GB/512GB),SSD-512-NVME-H1,512GB NVMe SSD,Storage,1,48.3,SK Hynix,12,82000
+ELITEBOOK840G7-I7-16-512,HP EliteBook 840 G7 (i7-10510U/16GB/512GB),HNG-ASSY-H1,Display Hinge Assembly,Chassis/Hinge,2,7.1,Foxconn,12,32000
+ELITEBOOK840G7-I7-16-512,HP EliteBook 840 G7 (i7-10510U/16GB/512GB),KB-BL-US-H1,Backlit Keyboard - US Layout,Keyboard,1,19.5,Darfon,12,58000
+TPADT14-R7-16-512,Lenovo ThinkPad T14 Gen 1 (Ryzen 7 PRO/16GB/512GB),MB-T14G1-REV1,Motherboard Rev1,Motherboard,1,155.2,Quanta,12,20000
+TPADT14-R7-16-512,Lenovo ThinkPad T14 Gen 1 (Ryzen 7 PRO/16GB/512GB),DISP-14-FHD-IPS-L1,14in FHD IPS Display Panel,Display,1,71.25,AUO,12,46000
+TPADT14-R7-16-512,Lenovo ThinkPad T14 Gen 1 (Ryzen 7 PRO/16GB/512GB),BATT-3CELL-50WH-L1,3-Cell 50Wh Battery,Battery,1,26.8,LG Chem,12,23500
+TPADT14-R7-16-512,Lenovo ThinkPad T14 Gen 1 (Ryzen 7 PRO/16GB/512GB),SSD-512-NVME-L1,512GB NVMe SSD,Storage,1,47.9,Samsung,12,81000
+TPADT14-R7-16-512,Lenovo ThinkPad T14 Gen 1 (Ryzen 7 PRO/16GB/512GB),HNG-ASSY-L1,Display Hinge Assembly,Chassis/Hinge,2,6.75,Compal,12,31000
+TPADT14-R7-16-512,Lenovo ThinkPad T14 Gen 1 (Ryzen 7 PRO/16GB/512GB),KB-BL-US-L1,Backlit Keyboard - US Layout,Keyboard,1,19.1,Chicony,12,59000

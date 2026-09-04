@@ -1,0 +1,4 @@
+parent_sku,product_name,product_line,category,launch_date,original_price_usd,target_segment,weight_kg,manufacturing_site,discontinued
+LAT5420-I5-16-256,Dell Latitude 5420,Latitude,Business Laptop,2021-03-15,1049.0,Enterprise/SMB,1.32,"Penang, Malaysia",FALSE
+ELITEBOOK840G7-I7-16-512,HP EliteBook 840 G7,EliteBook,Business Laptop,2020-05-01,1199.0,Enterprise,1.36,"Chongqing, China",TRUE
+TPADT14-R7-16-512,Lenovo ThinkPad T14 Gen 1,ThinkPad T-Series,Business Laptop,2020-06-18,1129.0,Enterprise/SMB,1.39,"Hefei, China",FALSE
