@@ -1,26 +1,45 @@
 # Infotact---Project-2---Group-12
 
-Analytics & Visualization
+# EchoChain – Power BI Analytics & Visualization
 
-Tools
------
-Power BI
-Power Query
-DAX
-Databricks SQL Warehouse
+This repository contains my **Analytics & Visualization work** for the EchoChain project, a Circular Economy & Secondary Market Lifecycle Analytics solution.
 
----Connect Power BI Desktop to the Databricks SQL endpoint and create a sample report using the Databricks data.
+My responsibility in this project is focused on the **Power BI analytics layer**. The repository documents the Power BI concepts and techniques I studied and applied for the project.
 
-Work Completed:
+## My Contribution
 
-1. Opened the Databricks workspace created for the project.
-2. Navigated to SQL → SQL Warehouses and selected the team's SQL Warehouse.
-3. Opened Connection Details to obtain the required connection information:
-     1 Server Hostname
-     2 HTTP Path
-4. Opened Power BI Desktop and selected Get Data.
-5. Searched for and selected the Databricks connector.
-6. Entered the Server Hostname and HTTP Path obtained from Databricks.
-7. Connected Power BI Desktop to the team's Databricks SQL Warehouse.
-8. Selected the required database/schema and dataset.
-9. Loaded the data into Power BI and created a sample report/dashboard to verify that the connection and data were working correctly.
+* Studied Power BI fundamentals and terminology
+* Connected Power BI Desktop with Databricks SQL
+* Learned Power Query for data preparation
+* Studied data modeling and table relationships
+* Learned primary keys, foreign keys and cardinality
+* Studied star schema concepts
+* Learned and practiced DAX measures
+* Studied measures vs calculated columns
+* Worked with filters and slicers
+* Studied KPI and visualization design
+* Learned drill-down and drill-through
+* Studied conditional formatting
+* Planned executive dashboard design
+* Documented Power BI concepts related to the EchoChain project
+
+## Tools & Technologies
+
+* Power BI
+* Power Query
+* DAX
+* Databricks SQL
+
+## Project Focus
+
+The Power BI layer is designed to support analysis of secondary-market information, product/component lifecycle data, warranty-related metrics and circularity-related business KPIs.
+
+The goal is to transform available project data into **interactive reports and business insights** that can support sustainability and refurbishment decisions.
+
+## Scope of My Work
+
+My contribution is specifically focused on **Analytics & Visualization using Power BI**. Data acquisition, web scraping, PySpark processing and Lakehouse engineering are handled as separate project responsibilities.
+
+## Learning Flow
+
+**Data Connection → Power Query → Data Modeling → DAX → Visualization → Dashboard → Business Insights**
