@@ -1,0 +1,50 @@
+parent_sku,product_name,product_line,category,launch_date,original_price_usd,target_segment,weight_kg,manufacturing_site,discontinued
+LAT5420-I5-16-256,Dell Latitude 5420,Latitude,Business Laptop,2021-03-15,1049.0,Enterprise/SMB,1.32,"Penang, Malaysia",False
+ELITEBOOK840G7-I7-16-512,HP EliteBook 840 G7,EliteBook,Business Laptop,2020-05-01,1199.0,Enterprise,1.36,"Chongqing, China",True
+TPADT14-R7-16-512,Lenovo ThinkPad T14 Gen 1,ThinkPad T-Series,Business Laptop,2020-06-18,1129.0,Enterprise/SMB,1.39,"Hefei, China",False
+ACERCHROMEBOOK-CEL-4.0-UNK,Acer Chromebook 311,Chromebook,Chromebook,2020-01-01,69.99,Consumer/Education,,,False
+ACERCHROMEBOOK2-CEL-2.0-16.0,Acer Chromebook C720-2848,Chromebook,Chromebook,,34.99,Consumer/Education,,,False
+ACERCHROMEBOOK3-CEL-4.0-16.0,Acer Chromebook C731,Chromebook,Chromebook,2018-01-01,39.99,Consumer/Education,,,True
+ACERCHROMEBOOK4-CEL-4.0-UNK,Acer Chromebook C738T-C44Z,Chromebook,Chromebook,2017-01-01,49.99,Consumer/Education,,,True
+CHUWICOREBOOKX-I5-8.0-512.0,CHUWI CoreBook X,CoreBook,Consumer Laptop,2021-01-01,273.83500000000004,Consumer/Education,,,False
+CHUWIFREEBOOK-CEL-12.0-12.0,CHUWI FreeBook,FreeBook,Consumer Laptop,2022-01-01,269.49,Consumer/Education,,,False
+CHUWIGEMIBOOKP-QC-16.0-512.0,CHUWI GemiBook Plus,GemiBook,Consumer Laptop,2023-01-01,241.99,Consumer/Education,,,False
+CHUWILAPBOOKPR-CEL-8.0-256.0,CHUWI LapBook Pro,LapBook,Consumer Laptop,,149.99,Consumer/Education,,,False
+CHUWILAPBOOKPR2-CEL-8.0-256.0,CHUWI Lapbook Pro,Lapbook,Consumer Laptop,2021-01-01,151.99,Consumer/Education,,,False
+DELL16PLUS7630-I7-32.0-1000.0,Dell 16 Plus 7630,Plus,Consumer Laptop,2023-01-01,625.0,Consumer/Education,,,False
+DELL5414-I5-8.0-8.0,Dell 5414,5414,Consumer Laptop,2019-01-01,119.99,Consumer/Education,,,False
+DELLE5580-I7-16.0-512.0,Dell E5580,E5580,Consumer Laptop,,218.99,Consumer/Education,,,False
+DELLINSPIRON14-R5-16.0-UNK,Dell Inspiron 14 5425,Inspiron,Consumer Laptop,,315.0,Consumer/Education,,,False
+DELLINSPIRON15-R5-16.0-512.0,Dell Inspiron 15 3535,Inspiron,Consumer Laptop,2023-01-01,489.0,Consumer/Education,,,False
+DELLLATITUDE31-CEL-4.0-128.0,Dell Latitude 3189,Latitude,Business Laptop,2019-01-01,129.99,Enterprise/SMB,,,False
+DELLLATITUDE52-I5-8.0-128.0,Dell Latitude 5289,Latitude,Business Laptop,2013-01-01,184.99,Enterprise/SMB,,,True
+DELLLATITUDE55-I5-16.0-512.0,Dell Latitude 5580,Latitude,Business Laptop,,344.99,Enterprise/SMB,,,True
+DELLLATITUDE74-I7-UNK-2000.0,Dell Latitude 7400,Latitude,Business Laptop,,503.39,Enterprise/SMB,,,True
+DELLLATITUDE742-I7-16.0-512.0,Dell Latitude 7480,Latitude,Business Laptop,,279.99,Enterprise/SMB,,,True
+DELLLATITUDE743-I7-UNK-2000.0,Dell Latitude 7490,Latitude,Business Laptop,,517.49,Enterprise/SMB,,,True
+DELLLATITUDEE5-I5-8.0-UNK,Dell Latitude E5440,Latitude,Business Laptop,2014-01-01,152.5,Enterprise/SMB,,,True
+DELLLATITUDEE52-I5-16.0-500.0,Dell Latitude E5470,Latitude,Business Laptop,2019-01-01,175.0,Enterprise/SMB,,,False
+DELLLATITUDEE53-I5-16.0-UNK,Dell Latitude E5500,Latitude,Business Laptop,,218.0,Enterprise/SMB,,,False
+DELLLATITUDEE54-I5-8.0-256.0,Dell Latitude E5550,Latitude,Business Laptop,,159.99,Enterprise/SMB,,,False
+DELLVARIOUSMOD-I5-8.0-0.0,Dell Various Models,Various,Consumer Laptop,2015-01-01,101.22,Consumer/Education,,,True
+HP15ESSENTIAL-I5-32.0-2000.0,HP 15 Essential,Essential,Consumer Laptop,2023-01-01,534.0,Consumer/Education,,,False
+HPCHROMEBOOK11-CEL-4.0-16.0,HP Chromebook 11 G5,Chromebook,Chromebook,2017-01-01,39.59,Consumer/Education,,,True
+HPCHROMEBOOK112-CEL-4.0-16.0,HP Chromebook 11 G6,Chromebook,Chromebook,,84.99,Consumer/Education,,,True
+HPCHROMEBOOK113-CEL-4.0-16.0,HP Chromebook 11 G6 EE,Chromebook,Chromebook,2019-01-01,84.99,Consumer/Education,,,True
+HPCHROMEBOOK114-UNK-4.0-16.0,HP Chromebook 11A G8 EE,Chromebook,Chromebook,,49.0,Consumer/Education,,,False
+HPELITEX2G4-I5-16.0-UNK,HP Elite X2 G4,Elite,Consumer Laptop,2019-01-01,299.99,Consumer/Education,,,False
+HPELITEBOOK840-I7-UNK-2000.0,HP EliteBook 840 G6,EliteBook,Business Laptop,,537.0,Enterprise/SMB,,,True
+HPPROBOOK650G2-I3-8.0-UNK,HP ProBook 650 G2,ProBook,Consumer Laptop,,145.0,Consumer/Education,,,True
+HPPROBOOK650G3-I5-16.0-UNK,HP ProBook 650 G3,ProBook,Consumer Laptop,,209.0,Consumer/Education,,,True
+HPSAMSUNGCHROM-CEL-4.0-16.0,HP Samsung ChromeBook,Samsung,Chromebook,,69.99,Consumer/Education,,,False
+HPSAMSUNGCHROM2-I3-8.0-UNK,HP Samsung Chromebook 3,Samsung,Chromebook,2020-01-01,125.0,Consumer/Education,,,False
+HPT4M32UTABA-CEL-16.0-16.0,HP T4M32UT#ABA,T4M32UT#ABA,Chromebook,,29.99,Consumer/Education,,,False
+LG17ZB90RKAAC7-I7-16.0-UNK,LG 17ZB90R-K.AAC7U1,17ZB90R-K.AAC7U1,Consumer Laptop,,550.0,Consumer/Education,,,False
+LENOVO100E-CEL-UNK-UNK,Lenovo 100e,100e,Chromebook,,44.99,Consumer/Education,,,False
+LENOVOL380-I5-16.0-UNK,Lenovo L380,L380,Consumer Laptop,,130.0,Consumer/Education,,,False
+LENOVOLEGION5P-I7-16.0-UNK,Lenovo Legion 5 Pro 16IAH7,Legion,Consumer Laptop,2022-01-01,799.0,Consumer/Education,,,False
+LENOVOT480-I5-16.0-UNK,Lenovo T480,T480,Consumer Laptop,,138.0,Consumer/Education,,,False
+LENOVOTHINKPAD-I5-8.0-256.0,Lenovo ThinkPad T440,ThinkPad,Business Laptop,,99.99,Enterprise/SMB,,,False
+LENOVOYOGA11E3-CEL-UNK-UNK,Lenovo Yoga 11e 3rd Gen.,Yoga,Consumer Laptop,,79.49,Consumer/Education,,,False
+MICROSOFTSURFA-I5-256.0-256.0,Microsoft Surface Pro,Surface,Consumer Laptop,,69.6,Consumer/Education,,,False
+MICROSOFTSURFA2-I5-4.0-128.0,Microsoft Surface Pro 3,Surface,Consumer Laptop,,59.99,Consumer/Education,,,False
