@@ -1,0 +1,6 @@
+bridge_product_map = 
+SUMMARIZE (
+    BOM_data,
+    BOM_data[parent_sku],
+    BOM_data[component_sku]
+)
