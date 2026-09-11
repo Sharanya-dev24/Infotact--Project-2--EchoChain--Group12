@@ -1,0 +1,12 @@
+DIM_Date = 
+VAR MinYear = YEAR(MIN(fact_warranty_claims[failure_date]))
+VAR MaxYear = YEAR(MAX(fact_warranty_claims[failure_date]))
+RETURN
+ADDCOLUMNS (
+    CALENDAR ( DATE(MIN(2020, MinYear), 1, 1), DATE(MAX(2030, MaxYear), 12, 31) ),
+    "Year", YEAR([Date]),
+    "Month", FORMAT([Date], "mmm"),
+    "Month No", MONTH([Date]),
+    "Quarter", "Q" & FORMAT([Date], "Q"),
+    "Year Month", FORMAT([Date], "YYYY-MM")
+)
