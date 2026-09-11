@@ -1,0 +1,9 @@
+DIM_component = 
+SUMMARIZE(
+    BOM_data,
+    BOM_data[component_sku],
+    BOM_data[component_type],
+    BOM_data[component_desc],
+    BOM_data[supplier],
+    BOM_data[mtbf_hours]
+)
